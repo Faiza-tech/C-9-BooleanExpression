@@ -1,0 +1,15 @@
+C:\Users\Faiza\documents\allDotnet\C-10-BooleanExpression\bin\Debug\net8.0\C-10-BooleanExpression.exe
+C:\Users\Faiza\documents\allDotnet\C-10-BooleanExpression\bin\Debug\net8.0\C-10-BooleanExpression.deps.json
+C:\Users\Faiza\documents\allDotnet\C-10-BooleanExpression\bin\Debug\net8.0\C-10-BooleanExpression.runtimeconfig.json
+C:\Users\Faiza\documents\allDotnet\C-10-BooleanExpression\bin\Debug\net8.0\C-10-BooleanExpression.dll
+C:\Users\Faiza\documents\allDotnet\C-10-BooleanExpression\bin\Debug\net8.0\C-10-BooleanExpression.pdb
+C:\Users\Faiza\documents\allDotnet\C-10-BooleanExpression\obj\Debug\net8.0\C-10-BooleanExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faiza\documents\allDotnet\C-10-BooleanExpression\obj\Debug\net8.0\C-10-BooleanExpression.AssemblyInfoInputs.cache
+C:\Users\Faiza\documents\allDotnet\C-10-BooleanExpression\obj\Debug\net8.0\C-10-BooleanExpression.AssemblyInfo.cs
+C:\Users\Faiza\documents\allDotnet\C-10-BooleanExpression\obj\Debug\net8.0\C-10-BooleanExpression.csproj.CoreCompileInputs.cache
+C:\Users\Faiza\documents\allDotnet\C-10-BooleanExpression\obj\Debug\net8.0\C-10-BooleanExpression.sourcelink.json
+C:\Users\Faiza\documents\allDotnet\C-10-BooleanExpression\obj\Debug\net8.0\C-10-BooleanExpression.dll
+C:\Users\Faiza\documents\allDotnet\C-10-BooleanExpression\obj\Debug\net8.0\refint\C-10-BooleanExpression.dll
+C:\Users\Faiza\documents\allDotnet\C-10-BooleanExpression\obj\Debug\net8.0\C-10-BooleanExpression.pdb
+C:\Users\Faiza\documents\allDotnet\C-10-BooleanExpression\obj\Debug\net8.0\C-10-BooleanExpression.genruntimeconfig.cache
+C:\Users\Faiza\documents\allDotnet\C-10-BooleanExpression\obj\Debug\net8.0\ref\C-10-BooleanExpression.dll
